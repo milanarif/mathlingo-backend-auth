@@ -1,4 +1,4 @@
-1,Addition,Easy,1 + 1 ,2
+1,Addition,Easy,1 + 1,2
 2,Addition,Easy,2 + 1,3
 3,Addition,Easy,2 + 2,4
 4,Addition,Easy,3 + 2,5
@@ -8,7 +8,7 @@
 8,Addition,Hard,7 + 4,11
 9,Addition,Hard,4 + 9,13
 10,Addition,Hard,5 + 10,15
-11,Subtraction,Easy,1 - 1 ,0
+11,Subtraction,Easy,1 - 1,0
 12,Subtraction,Easy,2 - 1,1
 13,Subtraction,Easy,2 - 2,0
 14,Subtraction,Easy,3 - 2,1
@@ -18,7 +18,7 @@
 18,Subtraction,Hard,7 - 4,3
 19,Subtraction,Hard,9 - 4,5
 20,Subtraction,Hard,5 - 10,-5
-21,Multiplication,Easy,1 * 1 ,1
+21,Multiplication,Easy,1 * 1,1
 22,Multiplication,Easy,2 * 1,2
 23,Multiplication,Easy,2 * 2,4
 24,Multiplication,Easy,3 * 2,6
@@ -28,7 +28,7 @@
 28,Multiplication,Hard,7 * 4,28
 29,Multiplication,Hard,4 * 9,36
 30,Multiplication,Hard,5 * 10,50
-31,Division,Easy,1 / 1 ,1
+31,Division,Easy,1 / 1,1
 32,Division,Easy,2 / 1,2
 33,Division,Easy,2 / 2,1
 34,Division,Easy,6 / 2,3
@@ -41,20 +41,20 @@
 41,Final,Easy,9 / 3,3
 42,Final,Easy,3 * 3,9
 43,Final,Easy,5 - 3,2
-45,Final,Easy,7 - 2,5
-46,Final,Easy,5 + 5,10
-47,Final,Easy,3 * 4,12
-48,Final,Easy,14 / 2,7
-49,Final,Easy,3 + 5,8
-50,Final,Easy,2 + 2 * 2,8
-51,Final,Easy,9 - 3 / 2,3
-52,Final,Hard,21 / 3,7
-53,Final,Hard,5 * 5,25
-54,Final,Hard,15 - 9,6
-55,Final,Hard,20 - 25,-5
-56,Final,Hard,17 + 5,22
-57,Final,Hard,7 * 5,35
-58,Final,Hard,36 / 9,4
-59,Final,Hard,7 + 17,24
-60,Final,Hard,3 + 9 * 3,36
-61,Final,Hard,24 - 8 / 4,4
+44,Final,Easy,7 - 2,5
+45,Final,Easy,5 + 5,10
+46,Final,Easy,3 * 4,12
+47,Final,Easy,14 / 2,7
+48,Final,Easy,3 + 5,8
+49,Final,Easy,(2 + 2) * 2,8
+50,Final,Easy,(9 - 3) / 2,3
+51,Final,Hard,21 / 3,7
+52,Final,Hard,5 * 5,25
+53,Final,Hard,15 - 9,6
+54,Final,Hard,20 - 25,-5
+55,Final,Hard,17 + 5,22
+56,Final,Hard,7 * 5,35
+57,Final,Hard,36 / 9,4
+58,Final,Hard,7 + 17,24
+59,Final,Hard,3 + 9 * 3,36
+60,Final,Hard,(24 - 8) / 4,4
